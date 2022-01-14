@@ -14,14 +14,12 @@
         1月19日(水)
       </p>
     </header>
-    <div>
-      <p class="normal">
-        卒業まであと
-      </p>
-      <p class="more-days">
-        27日
-      </p>
-    </div>
+    <p class="normal">
+      卒業まであと
+    </p>
+    <p class="more-days">
+      27日
+    </p>
     <footer>
       <p class="normal">
         みんなへのメッセージ
